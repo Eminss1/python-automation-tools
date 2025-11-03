@@ -19,13 +19,13 @@ python -m venv .venv
 pip install -r requirements.txt
 
 ## Usage
-## Organize files inside a folder
+### Organize files inside a folder
 python src/file_organizer.py --target ./Downloads
 
-## Backup a directory into ./backups/
+### Backup a directory into ./backups/
 python src/auto_backup.py --source ./project --dest ./backups
 
-## Generate a summary of a CSV file
+### Generate a summary of a CSV file
 python src/report_csv_summary.py --input data.csv --out reports/summary.csv
 
 ## Project Structure
