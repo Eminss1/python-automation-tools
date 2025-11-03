@@ -12,7 +12,7 @@ This repository demonstrates practical problem-solving with Python — short, us
 - Cross-platform (tested on Windows & Linux)
 
 ## Installation
-git clone https://github.com/<your-username>/python-automation-tools.git
+git clone https://github.com/Eminss1/python-automation-tools.git
 cd python-automation-tools
 python -m venv .venv
 .venv\Scripts\activate   # on Windows
