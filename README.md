@@ -45,5 +45,4 @@ python-automation-tools/
 - Add GUI wrapper (Tkinter)
 
 ## License
-
 MIT
